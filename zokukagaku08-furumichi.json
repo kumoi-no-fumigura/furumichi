@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/furumichi",
  "yomi": "おののふるみちかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "文化9年（1812）2月序",
+  "author": "小野古道（長谷川謙益）",
+  "desc": "盲目の鍼医長谷川謙益（小野古道）の家集。真淵の門に早くから入った人で、清水浜臣が見聞きした歌を集めたと序にいう。真淵をたたえる長歌も収める。"
+ },
  "editions": [
   {
    "pid": "993386",
